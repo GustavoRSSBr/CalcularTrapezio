@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcularTrapezio</string>
+    <string name="base_maior">Base maior</string>
+    <string name="base_menor">Base menor</string>
+    <string name="altura">Altura</string>
+    <string name="area">Area: </string>
+    <string name="calcular">Calcular</string>
+    <string name="dado_invalido">Dados inválidos, digite um dado válido</string>
+</resources>
